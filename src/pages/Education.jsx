@@ -13,7 +13,7 @@ const Education = () => {
       <VerticalTimeline lineColor="#f97316" className=''>
         <VerticalTimelineElement
           className="vertical-timeline-element--education "
-          date="2020 - 2024"
+          date="2022 - 2026"
           iconStyle={{ background: '#f97316', color: '#fffff' }}
           icon={<FaGraduationCap />}
         >
@@ -24,7 +24,7 @@ const Education = () => {
 
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
-          date="2018 - 2020"
+          date="2020 - 2022"
           iconStyle={{ background: '#f97316', color: '#fff' }}
           icon={<FaGraduationCap />}
         >
@@ -35,7 +35,7 @@ const Education = () => {
 
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
-          date="2016 - 2018"
+          date="2019 - 2020"
           iconStyle={{ background: '#f97316', color: '#fff' }}
           icon={<FaGraduationCap />}
         >

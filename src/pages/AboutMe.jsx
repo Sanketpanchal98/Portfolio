@@ -89,7 +89,6 @@ const AboutMe = ({ id }) => {
 
                             <p className="text-base md:text-lg font-inter leading-relaxed">
                                 I actively improve my problem-solving through <span className="text-orange-light">DSA practice</span> on LeetCode and love exploring new technologies like microservices and WebSockets. Outside of tech, I find balance in <span className="text-orange-light">photography</span>, <span className="text-orange-light">sketching</span>, and <span className="text-orange-light">cricket</span>. <br></br> <br></br>
-                                Currently, I am looking for internship or entry-level opportunities where I can apply my knowledge, collaborate with experienced professionals, and grow as a full-stack developer.
                             </p>
 
                             {/* <button className='p-3 bg-orange rounded-xl font-bold '>Download Resume</button> */}

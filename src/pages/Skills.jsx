@@ -20,10 +20,10 @@ const Skills = ({ id }) => {
             <div data-animate className="w-full">
               <h2 className="text-2xl md:text-3xl font-bold text-orange-400 mb-6">Frontend</h2>
               <div className="flex flex-wrap gap-4 items-center">
-                <img src="/icons/003-html-5.png" alt="HTML" className="max-w-full h-12 md:h-14 hover:scale-110 transition-transform duration-300 cursor-pointer" />
-                <img src="/icons/003-css-3.png" alt="CSS" className="max-w-full h-12 md:h-14 hover:scale-110 transition-transform duration-300 cursor-pointer" />
-                <img src="/icons/009-js.png" alt="JavaScript" className="max-w-full h-12 md:h-14 hover:scale-110 transition-transform duration-300 cursor-pointer" />
-                <img src="/icons/002-react.png" alt="React" className="max-w-full h-12 md:h-14 hover:scale-110 transition-transform duration-300 cursor-pointer" />
+                <img src='/Portfolio/icons/006-html-5.png' alt="HTML" className="max-w-full h-12 md:h-14 hover:scale-110 transition-transform duration-300 cursor-pointer" />
+                <img src="/Portfolio/icons/003-css-3.png" alt="CSS" className="max-w-full h-12 md:h-14 hover:scale-110 transition-transform duration-300 cursor-pointer" />
+                <img src="/Portfolio/icons/009-js.png" alt="JavaScript" className="max-w-full h-12 md:h-14 hover:scale-110 transition-transform duration-300 cursor-pointer" />
+                <img src="/Portfolio/icons/002-react.png" alt="React" className="max-w-full h-12 md:h-14 hover:scale-110 transition-transform duration-300 cursor-pointer" />
               </div>
             </div>
 
@@ -31,10 +31,10 @@ const Skills = ({ id }) => {
             <div data-animate className="w-full">
               <h2 className="text-2xl md:text-3xl font-bold text-orange-400 mb-6">Backend</h2>
               <div className="flex flex-wrap gap-4 items-center">
-                <img src="/icons/004-nodejs.png" alt="Node.js" className="max-w-full h-12 md:h-14 hover:scale-110 transition-transform duration-300 cursor-pointer" />
-                <img src="/icons/express-js.png" alt="Express.js" className="h-12 md:h-14 bg-white rounded-full p-1 hover:scale-110 transition-transform duration-300 cursor-pointer" />
-                <img src="/icons/mongodb.png" alt="MongoDB" className="max-w-full h-12 md:h-14 hover:scale-110 transition-transform duration-300 cursor-pointer" />
-                <img src="/icons/002-global-server.png" alt="API/Server" className="max-w-full h-12 md:h-14 hover:scale-110 transition-transform duration-300 cursor-pointer" />
+                <img src="/Portfolio/icons/004-nodejs.png" alt="Node.js" className="max-w-full h-12 md:h-14 hover:scale-110 transition-transform duration-300 cursor-pointer" />
+                <img src="/Portfolio/icons/express-js.png" alt="Express.js" className="h-12 md:h-14 bg-white rounded-full p-1 hover:scale-110 transition-transform duration-300 cursor-pointer" />
+                <img src="/Portfolio/icons/mongodb.png" alt="MongoDB" className="max-w-full h-12 md:h-14 hover:scale-110 transition-transform duration-300 cursor-pointer" />
+                <img src="/Portfolio/icons/002-global-server.png" alt="API/Server" className="max-w-full h-12 md:h-14 hover:scale-110 transition-transform duration-300 cursor-pointer" />
               </div>
             </div>
           </div>
@@ -43,9 +43,9 @@ const Skills = ({ id }) => {
           <div className="mb-12" data-animate>
             <h2 className="text-2xl md:text-3xl font-bold text-orange-400 mb-6">Tools</h2>
             <div className="flex flex-wrap gap-4 items-center">
-              <img src="/icons/postman.png" alt="Postman" className="max-w-full h-12 md:h-14 rounded-full hover:scale-110 transition-transform duration-300 cursor-pointer" />
-              <img src="/icons/vscode.jpg" alt="VS Code" className="max-w-full h-12 md:h-14 bg-white p-1 rounded hover:scale-110 transition-transform duration-300 cursor-pointer" />
-              <img src="/icons/github.png" alt="GitHub" className="max-w-full h-12 md:h-14 bg-white p-1 rounded-full hover:scale-110 transition-transform duration-300 cursor-pointer" />
+              <img src="/Portfolio/icons/postman.png" alt="Postman" className="max-w-full h-12 md:h-14 rounded-full hover:scale-110 transition-transform duration-300 cursor-pointer" />
+              <img src="/Portfolio/icons/vscode.jpg" alt="VS Code" className="max-w-full h-12 md:h-14 bg-white p-1 rounded hover:scale-110 transition-transform duration-300 cursor-pointer" />
+              <img src="/Portfolio/icons/github.png" alt="GitHub" className="max-w-full h-12 md:h-14 bg-white p-1 rounded-full hover:scale-110 transition-transform duration-300 cursor-pointer" />
             </div>
           </div>
 
