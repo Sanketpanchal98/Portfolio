@@ -9,7 +9,7 @@ const Education = () => {
   return (
     <section id="education" className="bg-background text-white md:flex py-16 px-6 justify-center w-full h-full">
 
-      <h2 className="text-3xl font-bold text-orange font-poppins mb-10 text-center">Education</h2>
+      <div className='z-40 text-4xl'><h2 className="text-4xl font-bold text-orange font-poppins mb-10 text-center">Education</h2></div>
       <VerticalTimeline lineColor="#f97316" className=''>
         <VerticalTimelineElement
           className="vertical-timeline-element--education "

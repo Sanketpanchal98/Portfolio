@@ -83,13 +83,7 @@ const AboutMe = ({ id }) => {
 
                             <h2 className="text-3xl md:text-4xl font-bold font-poppins text-orange">About Me</h2>
 
-                            <p className="text-base md:text-lg font-inter leading-relaxed">
-                                Hi! I’m <span className="text-orange font-semibold">Sanket Panchal</span> a dedicated and detail-oriented Full-Stack Web Developer with a strong focus on backend technologies and scalable system design. I specialize in the MERN stack (MongoDB, Express.js, React.js, Node.js) and have successfully built real-world projects such as a YouTube backend clone, a Job Board application, and an AI-powered Trip Planner. My technical strengths include building secure REST APIs, managing database schemas, and developing responsive user interfaces enhanced with GSAP animations.
-                            </p>
-
-                            <p className="text-base md:text-lg font-inter leading-relaxed">
-                                I actively improve my problem-solving through <span className="text-orange-light">DSA practice</span> on LeetCode and love exploring new technologies like microservices and WebSockets. Outside of tech, I find balance in <span className="text-orange-light">photography</span>, <span className="text-orange-light">sketching</span>, and <span className="text-orange-light">cricket</span>. <br></br> <br></br>
-                            </p>
+                            <p className="text-base md:text-lg font-inter leading-relaxed"> Hey! I’m <span className="text-orange font-semibold">Sanket Panchal</span> — a Web Developer who loves building things that actually <b>Work</b> and scale. I’ve delivered multiple full-stack projects — solo and with teams — where I designed architectures, optimized backend logic, and shipped clean UI/UX experiences. </p> <p className="text-base md:text-lg font-inter leading-relaxed"> I stay curious and keep leveling up, especially around <b>secure APIs, database modeling, authentication</b>, and <b>real-time features</b>, like WebSockets. I’ve started digging into the <b>basics of DevOps,</b> — Docker, and smart deployment workflows — because shipping faster and safer matters. </p> <p className="text-base md:text-lg font-inter leading-relaxed"> On the problem-solving side, I grind LeetCode and focus on core DSA like <span className="text-orange-light font-medium">graphs, trees, linked lists, and doubly linked lists</span> to strengthen system thinking and logic. I love exploring modern tech, asking “why,” breaking things, and then fixing them better. </p> <p className="text-base md:text-lg font-inter leading-relaxed"> When I’m not coding, you’ll probably find me behind a camera, sketching, or on a cricket ground trying to hit a six instead of a safe single. </p>
 
                             {/* <button className='p-3 bg-orange rounded-xl font-bold '>Download Resume</button> */}
 
